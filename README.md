@@ -9,7 +9,7 @@
 | :------: | :------: | :------: | :------: |
 | <img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/a3ab750a-4043-4521-89be-281b697224bd" height="300px"/> | <img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/507e4f5d-cd3a-4d4b-ac19-06c5deef8a83" height="300px"/> | <img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/31dc06b6-aff2-4bf4-9ab7-91289b283a73" height="300px"/> | <img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/5f6eadda-3792-47be-9bb1-48ef9131633e" height="300px"/> |
 
-| 查看童模列表 | 厂商管理 | 厂商管理 | 通告报名信息 | 通告报名信息 |
+| 查看童模列表 | 厂商管理 | 厂商管理 | 通告报名信息 | 通告报名信息，在此初审 |
 | :------: | :------: | :------: | :------: | :------: |
 | <img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/53e7f45d-3952-4f8d-b99d-b86d190ef16c" height="300px"/> | <img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/d4540b6c-dcf6-4857-ab43-330ef049f7ae" height="300px"/> |<img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/d2966537-67c6-4681-a5f6-d2631e73125b" height="300px"/> | <img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/e62339f8-3974-428c-928c-16aaca236d35" height="300px"/> |<img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/d55f08da-3a40-4c55-aedc-0020cbc3ac07" height="300px"/> |
 
@@ -21,7 +21,7 @@
 | :------: | :------: | :------: | 
 | <img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/5728fe7c-df48-48ff-b28f-eebf35991ca3" height="300px"/> | <img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/d6fbb411-cbf7-467b-8522-d9c92e25c7e7" height="300px"/> | <img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/64c8aaa5-fc25-4e4d-8351-ad2f706efc5c" height="300px"/> |
 
-| 宝贝管理 | 宝贝管理  | 报名的通告列表 | 报名详情，在此初审 |
+| 宝贝管理 | 宝贝管理  | 报名的通告列表 | 报名详情 |
 | :------: | :------: | :------: | :------: |
 | <img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/5cae9498-686c-496a-a1fd-96251386ca52" height="300px"/> | <img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/980f0383-c501-49bb-9dd6-a0c64c250a17" height="300px"/> | <img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/6e392809-ce11-40e8-9895-5f64a48dff1b" height="300px"/> | <img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/59cb1e9e-f65f-4666-9f2a-38c5c3bf90fe" height="300px"/> |
 
