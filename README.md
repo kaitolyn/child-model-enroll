@@ -16,9 +16,11 @@
 
 
 ## 家长（童模）端
+
 | 主页 | 个人中心 | 通告报名 |
 | :------: | :------: | :------: | 
 | <img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/5728fe7c-df48-48ff-b28f-eebf35991ca3" height="300px"/> | <img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/d6fbb411-cbf7-467b-8522-d9c92e25c7e7" height="300px"/> | <img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/64c8aaa5-fc25-4e4d-8351-ad2f706efc5c" height="300px"/> |
+
 | 宝贝管理 | 宝贝管理  | 报名的通告列表 | 报名详情，在此初审 |
 | :------: | :------: | :------: | :------: |
 | <img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/5cae9498-686c-496a-a1fd-96251386ca52" height="300px"/> | <img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/980f0383-c501-49bb-9dd6-a0c64c250a17" height="300px"/> | <img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/6e392809-ce11-40e8-9895-5f64a48dff1b" height="300px"/> | <img src="https://github.com/kaitolyn/child-model-enroll/assets/49381512/59cb1e9e-f65f-4666-9f2a-38c5c3bf90fe" height="300px"/> |
